@@ -1,1 +1,1 @@
-# spinner
+# dinner-spinner
