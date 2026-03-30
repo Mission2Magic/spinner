@@ -1,7 +1,7 @@
 
 
 (function() {
-	const wheel = document.querySelector('.container');
+	const wheel = document.querySelector('.container','.container2',);
 	const startButton = document.getElementById('spin');
 	let deg = 0;
   
